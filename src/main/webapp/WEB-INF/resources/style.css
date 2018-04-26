@@ -1,0 +1,112 @@
+
+
+td {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+
+}
+
+.fieldname {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+    width: 15%;
+    padding-right: 10px;
+    margin-right: 20px;
+}
+
+.bt {
+    float:right;
+    margin:0 10px;
+    /*width: 33%;*/
+
+    /*vertical-align: bottom;*/
+}
+
+.tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-color: #ccc;
+}
+
+.tg td {
+
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+    padding: 0px 3px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #f0f0f0;
+    color: #333;
+    background-color: #f0f0f0;
+
+
+}
+
+
+
+.tg th {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 1px;
+    margin-left: 1px;
+    padding: 5px 5px 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #f0f0f0;
+    color: #333;
+    background-color: #f0f0f0;
+    /*border-radius: 5px;*/
+}
+
+
+
+.form {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+    padding: 5px 5px;
+    border-width: 0;
+    align-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+    vert-align: middle;
+}
+
+
+.material {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+    padding: 5px 5px;
+    background-color: #f0f0f0;
+    align-content: center;
+    align-items: center;
+    word-spacing: 20px;
+}
+
+.yearfield {
+    width: 50px;
+}
+
+
+.field {
+width: 330px;
+/*height: 20px;*/
+/*font-size: 14px;*/
+/*border: 1px solid #dddddd;*/
+/*background: #ffffff;*/
+/*margin-bottom: 20px;*/
+/*padding: 10px 21px;*/
+/*-webkit-border-radius: 0px;*/
+/*-moz-border-radius: 0px;*/
+/*border-radius: 0px;*/
+/*color: #333333;*/
+}
+
